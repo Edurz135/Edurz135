@@ -14,14 +14,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<br>
-
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/python.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Edurz135/Edurz135/blob/main/assets/javascript.png"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/react.png"></a>
-<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/unity.png"></a>
-<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/aws.png" alt="Amazon" height='42px'/> </a>
-<a href="https://alexa.amazon.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/alexa.png" alt="Alexa" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/figma.png" alt="figma" height='42px'/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="38px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/python.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="38px"  src="https://github.com/Edurz135/Edurz135/blob/main/assets/javascript.png"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="38px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/react.png"></a>
+<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height ="38px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/unity.png"></a>
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/aws.png" align="left" alt="Amazon" height='38px'/> </a>
+<a href="https://alexa.amazon.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/alexa.png" align="left" alt="Alexa" height='38px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/figma.png" align="left" alt="figma" height='38px'/> </a>
 <br>
