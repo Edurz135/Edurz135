@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/Edurz135/Edurz135/blob/main/hand.gif" width="30">, I'm Eduardo Ramón 
+# Hi there <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/hand.gif" width="30">, I'm Eduardo Ramón 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, VideoGames Developer 🎮, VR/AR Developer 🕶, ML Engineer 🤖, beginner level Designer 🎨) depending on what the project requires. I have a passion for exploring cutting-edge technologies 🚀 and leveraging them to build exciting and innovative solutions 🛠️.
 
@@ -17,11 +17,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/python.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Edurz135/Edurz135/blob/main/assets/javascript.png"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/react.png"></a>
+<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height ="42px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/unity.png"></a>
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/aws.png" alt="Amazon" height='42px'/> </a>
+<a href="https://alexa.amazon.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/alexa.png" alt="Alexa" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/figma.png" alt="figma" height='42px'/> </a>
 <br>
