@@ -2,9 +2,7 @@
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, VideoGames Developer 🎮, VR/AR Developer 🕶, ML Engineer 🤖, beginner level Designer 🎨) depending on what the project requires. I have a passion for exploring cutting-edge technologies 🚀 and leveraging them to build exciting and innovative solutions 🛠️.
 
-<a href="#macropower-title">
-  <img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
-</a>
+<img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
 
 ### 💯 About me:
 - 🔭 I’m currently working on development with VR/AR technology.
