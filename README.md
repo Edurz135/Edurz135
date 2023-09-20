@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/Edurz135/Edurz135/blob/main/assets/hand.gif" width="30">, I'm Eduardo Ramón 
 
-I am a versatilist and easily adapt to different hats (Frontend Developer 🌐, VideoGames Developer 🎮, VR/AR Developer 🕶, beginner UI/UX Designer 🎨) depending on what the project requires. I have a passion for exploring cutting-edge technologies 🚀 and leveraging them to build exciting and innovative solutions 🛠️.
+I am a versatilist and easily adapt to different hats (Frontend Developer 🌐, VideoGames Developer 🎮, beginner UI/UX Designer 🎨) depending on what the project requires. I have a passion for exploring cutting-edge technologies 🚀 and leveraging them to build exciting and innovative solutions 🛠️.
 
 <img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-light-mode-only" alt="edurz" align="right" />
 <img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only" alt="edurz" align="right" />
