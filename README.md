@@ -6,11 +6,11 @@ I am a versatilist and easily adapt to different hats (Frontend Developer 🌐, 
 <img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only" alt="edurz" align="right" />
 
 ### 💯 About me:
-- 🔭 I’m currently working on development with VR/AR technology.
-- 🌱 I’m currently learning Alexa Skills development.
-- 💖 Unity, Python, Amazon AWS, ...
+- 🔭 I’m currently working on mobile development.
+- 🌱 I’m currently learning data science.
+- 💖 React, Python, Amazon AWS, ...
 - 📫 Feel free contact me through any social network. 
-- 🎹 When I'm free I like to listen salsa and play the piano.
+- 🎹 When I'm free I like to play the piano.
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://github.com/Edurz135/Edurz135/blob/main/assets/python.png"></a>
