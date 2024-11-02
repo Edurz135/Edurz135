@@ -6,8 +6,8 @@ I am a versatilist and easily adapt to different hats (Frontend Developer 🌐, 
 <img src="https://github.com/Edurz135/Github-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only" alt="edurz" align="right" />
 
 ### 💯 About me:
-- 🔭 I’m currently working on mobile development.
-- 🌱 I’m currently learning data science.
+- 🔭 I’m currently working on microservices.
+- 🌱 I’m currently learning cloud patterns.
 - 💖 React, Python, Amazon AWS, ...
 - 📫 Feel free contact me through any social network. 
 - 🎹 When I'm free I like to play the piano.
